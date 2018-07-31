@@ -13,6 +13,16 @@
                 "id": 2,
                 "name": "friends",
                 "status": true
+            },
+            {
+                "id": 3,
+                "name": "Badminton team",
+                "status": true
+            },
+            {
+                "id": 4,
+                "name": "GWModel Lab",
+                "status": true
             }
         ],
         "users": [
