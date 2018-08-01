@@ -14,11 +14,11 @@
 
 - Mac OS
     - 安装包: `whu-library-seat-<version>.dmg`
-    - 链接[v1.0.3](https://github.com/CS-Tao/whu-library-seat/releases/download/v1.0.3/whu-library-seat-1.0.3.dmg)
+    - 链接: [v1.0.3](https://github.com/CS-Tao/whu-library-seat/releases/download/v1.0.3/whu-library-seat-1.0.3.dmg)
 
 - Linux
     - 安装包: `whu-library-seat-<version>-x86_64.AppImage`
-    - 链接[v1.0.3](https://github.com/CS-Tao/whu-library-seat/releases/download/v1.0.3/whu-library-seat-1.0.3-x86_64.AppImage)
+    - 链接: [v1.0.3](https://github.com/CS-Tao/whu-library-seat/releases/download/v1.0.3/whu-library-seat-1.0.3-x86_64.AppImage)
 
 ### 安装软件
 
